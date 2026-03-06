@@ -72,9 +72,9 @@ Let’s build something cool 🚀
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project One]()** | | HTML, CSS, JS, Responsive |
-| **[Project Two]()** | | HTML, CSS, JS, Responsive|
-| **[Project Three]()** || HTML, CSS, JS, Responsive |
+| **[Project One](https://cg-adidas-clone.netlify.app/)** | | HTML, CSS, Responsive |
+| **[Project Two](https://cg-formour-clone.netlify.app/)** | | HTML, CSS, Responsive|
+| **[Project Three](https://cg-defender-clone.netlify.app/)** || HTML, CSS, Responsive |
 <!-- PROJECTS END -->
 
 <hr/>
