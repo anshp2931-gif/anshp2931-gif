@@ -70,7 +70,7 @@ Let’s build something cool 🚀
 <!-- PROJECTS START -->
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Youtube Link |Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Project One](https://cg-adidas.netlify.app/)** | https://youtu.be/v9rHpGji5Sk | Adidas clone website | ["React JS", "Tailwind CSS", "Responsive Design"] |
 | **[Project Two](https://formourplace-clone.netlify.app/)** |https://youtu.be/fDuZ21tU7jM | Formourplace clone website | ["React JS", "Tailwind CSS", "Responsive Design"]|
