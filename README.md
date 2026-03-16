@@ -72,9 +72,9 @@ Let’s build something cool 🚀
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project One](https://cg-adidas-clone.netlify.app/)** | Adidas clone website | HTML, CSS, Responsive |
-| **[Project Two](https://cg-formour-clone.netlify.app/)** | Formourplace clone website | HTML, CSS, Responsive|
-| **[Project Three](https://cg-defender-clone.netlify.app/)** | Defender clone website | HTML, CSS, Responsive |
+| **[Project One](https://cg-adidas.netlify.app/)** | https://youtu.be/v9rHpGji5Sk | Adidas clone website | ["React JS", "Tailwind CSS", "Responsive Design"] |
+| **[Project Two](https://formourplace-clone.netlify.app/)** |https://youtu.be/fDuZ21tU7jM | Formourplace clone website | ["React JS", "Tailwind CSS", "Responsive Design"]|
+| **[Project Three](https://cg-defender-clone.netlify.app/)** | https://youtu.be/Wr7vTX3SSDk | Defender clone website | HTML, CSS, Responsive |
 
 
 <!-- PROJECTS END -->
