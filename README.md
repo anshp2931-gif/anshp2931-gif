@@ -48,7 +48,7 @@ Here are some repos I’m proud of:
 - ⭐ **RarePlant** – RarePlant Clone made using HTML & CSS  
 ## 📫 Contact
 
-* 📧 Email: [your-email@example.com](anshp2931@gmail.com)
+* 📧 Email: [anshp2931@gmail.com](anshp2931@gmail.com)
 * 🔗 LinkedIn: www.linkedin.com/in/ansh-patel-059b1b399
 * 📺 YouTube: https://youtube.com/@anshpatel-q4q?si=FiZJxWksZf3yvxIq
 
