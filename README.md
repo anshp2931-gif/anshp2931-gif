@@ -1,96 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**anshp2931-gif/anshp2931-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering (CSE) Student  
+💻 Passionate about coding, problem-solving, and building projects  
+🌱 Currently learning: Data Structures, Web Development, and AI  
+🚀 Goal: To become a skilled Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hello World, I'm Manan Patel
+## 🛠️ Skills & Technologies
 
-<!-- HERO SECTION START -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Explorer;Open+Source+Enthusiast" alt="Typing SVG" />
-  
-</div>
-<!-- HERO SECTION END -->
+- 💻 Languages: C, C++, Java, Python  
+- 🌐 Web: HTML, CSS, JavaScript  
+- ⚙️ Tools: Git, GitHub, VS Code  
+- 📊 Concepts: Data Structures & Algorithms, OOP  
 
-<hr/>
+---
 
-<!-- ABOUT ME START -->
-## 🚀 About Me
+## 📈 GitHub Stats
 
-<div align="center">
-  I'm Ansh Patel, a Front-End Developer who loves crafting clean UI and smooth user experiences.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-I enjoy working with React and modern JavaScript, and I’m constantly learning new tools and best practices to improve my code.
+---
 
-🔹 Tech I use: React, JS, HTML, CSS  
-🔹 Interests: UI/UX, performance optimization, clean code  
-🔹 Goal: Become a strong full-stack developer  
+## 🔥 Streak Stats
 
-Let’s build something cool 🚀
-</div>
-<!-- ABOUT ME END -->
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
 
-<hr/>
+---
 
-<!-- TECH STACK START -->
-## 🛠️ My Tech Stack
+## 📌 Featured Projects
 
-<div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend" />
-  
-  <br/><br/>
+- 🔹 [Project 1](https://github.com/your-username/project1) - Short description  
+- 🔹 [Project 2](https://github.com/your-username/project2) - Short description  
+- 🔹 [Project 3](https://github.com/your-username/project3) - Short description  
 
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" alt="Backend & DB" />
+---
 
-  <br/><br/>
+## 📫 Connect with Me
 
-  <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode" alt="Tools" />
-</div>
-<!-- TECH STACK END -->
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your-email@gmail.com  
 
-<hr/>
+---
 
-<!-- GITHUB STATS START -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshp2931-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
-  <br/><br/>
-</div>
-<!-- GITHUB STATS END -->
-
-<hr/>
-
-<!-- PROJECTS START -->
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project One](https://cg-adidas.netlify.app/)** | Adidas clone website | ["React JS", "Tailwind CSS", "Responsive Design"] |
-| **[Project Two](https://formourplace-clone.netlify.app/)** | Formourplace clone website | ["React JS", "Tailwind CSS", "Responsive Design"]|
-| **[Project Three](https://cg-defender-clone.netlify.app/)** | Defender clone website | HTML, CSS, Responsive |
-
-
-<!-- PROJECTS END -->
-
-<hr/>
-
-<!-- SNAKE ANIMATION START -->
-
-<!-- SNAKE ANIMATION END -->
-
-<hr/>
-
-<!-- CONTACT START -->
-<div align="center">
-  <h2>🔗 Connect With Me</h2>
-  <a href="www.linkedin.com/in/ansh-patel-059b1b399"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/anshp2931?s=21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:ansh.patel.cg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+⭐️ From [Your Name](https://github.com/your-username)
