@@ -15,14 +15,20 @@ I enjoy working on real-world projects, improving my problem-solving skills, and
 ---
 
 🛠️ Tech Skills
+---
 🚀 Languages
+---
 Python
 JavaScript
 C
 HTML & CSS
+---
 💻 Frontend
+---
 React.js (learning)
+---
 📦 Backend & Databases
+---
 MongoDB (learning)
 SQL
 🛠 Tools & More
@@ -33,6 +39,7 @@ APIs
 
 
 📌 Featured Projects
+---
 Here are some repos I’m proud of :
 
 ⭐ Adidas – Adidas Clone made using ReactJs.
