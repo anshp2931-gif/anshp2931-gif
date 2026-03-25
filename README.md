@@ -14,43 +14,38 @@ I enjoy working on real-world projects, improving my problem-solving skills, and
 
 ---
 
-🛠️ Tech Skills
----
-🚀 Languages
----
-Python
-JavaScript
-C
-HTML & CSS
----
-💻 Frontend
----
-React.js (learning)
----
-📦 Backend & Databases
----
-MongoDB (learning)
-SQL
-🛠 Tools & More
-Git & GitHub
-VS Code
-APIs
----
+## 🛠️ Tech Skills
 
+### 🚀 Languages
+- Python  
+- JavaScript  
+- C  
+- HTML & CSS  
 
-📌 Featured Projects
----
-Here are some repos I’m proud of :
+### 💻 Frontend
+- React.js *(learning)*  
 
-⭐ Adidas – Adidas Clone made using ReactJs.
-⭐ Cars24 – Cars24 Clone made using ReactJs.
-⭐ Sony – Sony Clone made using ReactJs.
-⭐ Formourplace – Formourplace Clone made using ReactJs.
-⭐ Defender – Defender Clone made using HTML,CSS.
-⭐ RarePlant – Rareplant Clone made using HTML,CSS.
+### 📦 Backend & Databases
+- MongoDB *(learning)*  
+- SQL  
+
+### 🛠 Tools & More
+- Git & GitHub  
+- VS Code  
+- APIs  
 
 ---
 
+## 📌 Featured Projects
+
+Here are some repos I’m proud of:
+
+- ⭐ **Adidas** – Adidas Clone made using React.js  
+- ⭐ **Cars24** – Cars24 Clone made using React.js  
+- ⭐ **Sony** – Sony Clone made using React.js  
+- ⭐ **Formourplace** – Formourplace Clone made using React.js  
+- ⭐ **Defender** – Defender Clone made using HTML & CSS  
+- ⭐ **RarePlant** – RarePlant Clone made using HTML & CSS  
 ## 📫 Contact
 
 * 📧 Email: [your-email@example.com](anshp2931@gmail.com)
