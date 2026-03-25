@@ -1,10 +1,9 @@
 # Hi, I'm Ansh Patel 👋
 
-Computer Engineering Student
+**Computer Engineering Student**
 
-🎓 2nd semester Computer Engineering
----
-📍 Based in Gujarat, India
+🎓 2nd Semester Computer Engineering  
+📍 Based in Gujarat, India  
 
 ---
 
