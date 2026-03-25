@@ -3,6 +3,7 @@
 Computer Engineering Student
 
 🎓 2nd semester Computer Engineering
+---
 📍 Based in Gujarat, India
 
 ---
