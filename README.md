@@ -17,22 +17,22 @@ I enjoy working on real-world projects, improving my problem-solving skills, and
 ## 🛠️ Tech Skills
 
 ### 🚀 Languages
-- Python  
+- Html & CSS  
 - JavaScript  
 - C  
-- HTML & CSS  
+- Tailwind CSS  
 
 ### 💻 Frontend
-- React.js *(learning)*  
+- React.js   
 
 ### 📦 Backend & Databases
-- MongoDB *(learning)*  
-- SQL  
+- MongoDB   
+  
 
 ### 🛠 Tools & More
 - Git & GitHub  
 - VS Code  
-- APIs  
+- Figma  
 
 ---
 
