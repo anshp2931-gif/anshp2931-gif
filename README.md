@@ -1,46 +1,66 @@
-# Hi there 👋, I'm [Your Name]
+# Hi, I'm Ansh Patel 👋
 
-🎓 Computer Science Engineering (CSE) Student  
-💻 Passionate about coding, problem-solving, and building projects  
-🌱 Currently learning: Data Structures, Web Development, and AI  
-🚀 Goal: To become a skilled Software Developer  
-
----
-
-## 🛠️ Skills & Technologies
-
-- 💻 Languages: C, C++, Java, Python  
-- 🌐 Web: HTML, CSS, JavaScript  
-- ⚙️ Tools: Git, GitHub, VS Code  
-- 📊 Concepts: Data Structures & Algorithms, OOP  
+🎓 Computer Science Engineering Student
+💡 Interested in Software Development, Problem Solving & Emerging Technologies
+📍 India
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 About Me
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+I am a Computer Science student with a strong interest in building efficient and scalable software solutions.
+I enjoy working on real-world projects, improving my problem-solving skills, and learning new technologies.
 
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
-
----
-
-## 📌 Featured Projects
-
-- 🔹 [Project 1](https://github.com/your-username/project1) - Short description  
-- 🔹 [Project 2](https://github.com/your-username/project2) - Short description  
-- 🔹 [Project 3](https://github.com/your-username/project3) - Short description  
+* 🌱 Currently learning: Data Structures & Algorithms, Full Stack Development
+* 💬 Ask me about: C++, Java, Python, Web Development
+* 🎯 Career Goal: Software Engineer / Developer
+* ⚡ Fun fact: I love debugging more than writing code 😄
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Technical Skills
 
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@gmail.com  
+**Languages:**
+C • C++ • JavaScript • React JS 
+
+**Web Technologies:**
+HTML • CSS • Tailwind CSS • Figma
+
+**Tools & Platforms:**
+Git • GitHub • VS Code
+
+**Core Concepts:**
+Data Structures & Algorithms • Object-Oriented Programming • DBMS
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact)
+
+---
+
+## 📌 Projects
+
+* **Project Name 1** – Brief description of your project
+* **Project Name 2** – Brief description of your project
+* **Project Name 3** – Brief description of your project
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🔗 LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+## 🔍 Looking For
+
+I am currently seeking opportunities for internships and collaborative projects where I can apply my skills and grow as a developer.
+
+---
+
+⭐️ *Thank you for visiting my profile!*
