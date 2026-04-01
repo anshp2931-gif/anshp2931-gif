@@ -27,23 +27,20 @@
 
 ## 🧠 About Me
 
-```python
-class AnshPatel:
-    def __init__(self):
-        self.name        = "Ansh Patel"
-        self.role        = "Computer Engineering Student"
-        self.semester    = "2nd Semester"
-        self.location    = "Gujarat, India 🇮🇳"
-        self.focus       = ["Frontend Development", "UI/UX Design"]
-        self.passions    = ["React", "Tailwind CSS", "Open Source"]
-        self.currently   = "Building real-world projects & sharpening my skills"
-        self.fun_fact    = "I turn coffee ☕ into clean, beautiful UIs 🎨"
+```javascript
+const AnshPatel = {
+  name:        "Ansh Patel",
+  role:        "Computer Engineering Student",
+  semester:    "2nd Semester",
+  location:    "Gujarat, India 🇮🇳",
+  focus:       ["Frontend Development", "UI/UX Design"],
+  passions:    ["React", "Tailwind CSS", "Open Source"],
+  currently:   "Building real-world projects & sharpening my skills",
+  funFact:     "I turn coffee ☕ into clean, beautiful UIs 🎨",
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
-
-    def life_motto(self):
-        return "Consistency beats talent when talent doesn't work hard. 💪"
+  sayHi()     { console.log("Thanks for visiting! Let's build something amazing 🚀"); },
+  lifeMotto() { return "Consistency beats talent when talent doesn't work hard. 💪"; },
+};
 ```
 
 <br/>
