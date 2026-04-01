@@ -10,14 +10,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshpatel-q4q)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshPatel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshp2931-gif)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnshPatel&label=Profile+Views&color=00ffaa&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/AnshPatel?style=for-the-badge&color=00ffaa&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile+Views&color=00ffaa&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/anshp2931-gif?style=for-the-badge&color=00ffaa&labelColor=0d1117)
 
 </div>
 
@@ -146,18 +146,18 @@ class AnshPatel:
 
 | 🏷️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
 |---|---|---|---|
-| 🔥 **Adidas Clone** | Modern, fully responsive e-commerce UI with smooth animations and product showcase | `React.js` `Tailwind CSS` | [View →](https://github.com/AnshPatel) |
-| 🚗 **Cars24 Clone** | Pixel-perfect car marketplace UI with search, filter & listing components | `React.js` `CSS` | [View →](https://github.com/AnshPatel) |
-| 🎧 **Sony Clone** | Clean and modern consumer electronics landing page, responsive across all devices | `React.js` `CSS` | [View →](https://github.com/AnshPatel) |
-| 🏠 **Formourplace Clone** | Elegant interior design website clone with beautiful layout and transitions | `React.js` `Tailwind CSS` | [View →](https://github.com/AnshPatel) |
-| 🚙 **Defender Clone** | Stylish Land Rover Defender landing page with immersive scroll effects | `HTML` `CSS` `JS` | [View →](https://github.com/AnshPatel) |
-| 🌿 **RarePlant Clone** | Nature-inspired botanical UI design with lush green aesthetics | `HTML` `CSS` `JS` | [View →](https://github.com/AnshPatel) |
+| 🔥 **Adidas Clone** | Modern, fully responsive e-commerce UI with smooth animations and product showcase | `React.js` `Tailwind CSS` | [View →](https://github.com/anshp2931-gif/Adidas_website) |
+| 🚗 **Cars24 Clone** | Pixel-perfect car marketplace UI with search, filter & listing components | `React.js` `CSS` | [View →](https://github.com/anshp2931-gif/Cars24_website) |
+| 🎧 **Sony Clone** | Clean and modern consumer electronics landing page, responsive across all devices | `React.js` `CSS` | [View →](https://github.com/anshp2931-gif/Sony-clone-website) |
+| 🏠 **Formourplace Clone** | Elegant interior design website clone with beautiful layout and transitions | `React.js` `Tailwind CSS` | [View →](https://github.com/anshp2931-gif/formourplace) |
+| 🚙 **Defender Clone** | Stylish Land Rover Defender landing page with immersive scroll effects | `HTML` `CSS` `JS` | [View →](https://github.com/anshp2931-gif/Defender_website) |
+| 🌿 **RarePlant Clone** | Nature-inspired botanical UI design with lush green aesthetics | `HTML` `CSS` `JS` | [View →](https://github.com/anshp2931-gif/rareplant-clone-website) |
 
 </div>
 
 <br/>
 
-> 💡 **More projects** on my [GitHub](https://github.com/AnshPatel) & [Portfolio](https://ansh-patel-portfolio.vercel.app/) — I'm always building something new!
+> 💡 **More projects** on my [GitHub](https://github.com/anshp2931-gif) & [Portfolio](https://ansh-patel-portfolio.vercel.app/) — I'm always building something new!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -167,20 +167,20 @@ class AnshPatel:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshPatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshp2931-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshp2931-gif&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnshPatel&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anshp2931-gif&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Ansh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnshPatel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ansh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshp2931-gif&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -190,7 +190,7 @@ class AnshPatel:
 
 <div align="center">
 
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshPatel&theme=tokyo-night&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshp2931-gif&theme=tokyo-night&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -224,24 +224,6 @@ class AnshPatel:
 <!--END_SECTION:waka-->
 
 </div>
-
----
-
-## 💬 Ask Me About
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/Ask_me_about-HTML-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/Ask_me_about-CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/Ask_me_about-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/Ask_me_about-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Ask_me_about-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![UI/UX](https://img.shields.io/badge/Ask_me_about-UI%2FUX-FF61F6?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Ask_me_about-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
