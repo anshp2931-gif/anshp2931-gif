@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,50:03045E,100:023E8A&height=200&section=header&text=Ansh%20Patel&fontSize=75&fontColor=90E0EF&animation=blinking&fontAlignY=55&desc=Frontend%20Developer%20%7C%20React%20%7C%20UI%2FUX%20Craftsman&descAlignY=78&descColor=ADE8F4&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ansh%20Patel&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=62&descColor=ffffffcc&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=700&color=90E0EF&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=Crafting+pixel-perfect+UIs+✦;React+%26+Tailwind+CSS+Developer+⚡;Turning+ideas+into+interfaces+🎯;Clean+Code.+Beautiful+Design.+🌊;Always+building.+Always+learning.+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=750&lines=🔴+Frontend+Developer+%7C+Red+%26+Dark+Mode;🟣+React+%26+Tailwind+CSS+Enthusiast;🟢+Building+Real-World+Projects+Daily;🟠+UI%2FUX+Craftsman+%7C+Clean+Code;🔴+Always+Learning%2C+Always+Growing+🚀;🟣+Consistency+beats+talent+💪" alt="Typing SVG" />
 
 </div>
 
@@ -14,18 +14,18 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@anshpatel-q4q)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/anshp2931-gif)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-90E0EF?style=flat-square&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshpatel-q4q)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshp2931-gif)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile+Views&color=90e0ef&style=flat-square)
-![Followers](https://img.shields.io/github/followers/anshp2931-gif?style=flat-square&color=90e0ef&labelColor=03045e)
+![Profile Views](https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile+Views&color=FF6B6B&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/anshp2931-gif?style=for-the-badge&color=A855F7&labelColor=1a1a2e)
 
 </div>
 
@@ -33,17 +33,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+## 🧠 About Me
 
-## 🌊 About Me
-
-```typescript
+```javascript
 const AnshPatel = {
   name      : "Ansh Patel",
   role      : "Computer Engineering Student 🎓",
   semester  : "2nd Semester",
   location  : "Gujarat, India 🇮🇳",
-  focus     : ["Frontend Development", "UI/UX Design"],
+  vibes     : ["🔴 Red & Dark", "🟣 Purple & Neon", "🟢 Green & Black", "🟠 Orange & Gold"],
   stack     : ["React.js", "Tailwind CSS", "JavaScript", "Vite"],
   currently : "Building real-world projects & sharpening my skills",
   funFact   : "I turn coffee ☕ into clean, beautiful UIs 🎨",
@@ -88,8 +86,6 @@ const AnshPatel = {
 </tr>
 </table>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -100,30 +96,31 @@ const AnshPatel = {
 
 ### 🚀 Languages & Core
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B35?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📦 Backend & DB (Learning)
+### 📦 Backend & DB *(Learning)*
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -143,8 +140,6 @@ const AnshPatel = {
 | UI/UX Design | ⭐⭐⭐⭐ | `██████████████░░░░░░` 70% |
 
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -169,8 +164,6 @@ const AnshPatel = {
 
 > 💡 **More projects** on my [GitHub](https://github.com/anshp2931-gif) & [Portfolio](https://ansh-patel-portfolio.vercel.app/) — Always building something new!
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -179,8 +172,9 @@ const AnshPatel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshp2931-gif&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=03001C&title_color=90E0EF&icon_color=ADE8F4&text_color=CAF0F8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshp2931-gif&layout=compact&langs_count=8&theme=midnight-purple&border_radius=10&hide_border=true&bg_color=03001C&title_color=90E0EF&text_color=CAF0F8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshp2931-gif&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshp2931-gif&layout=compact&langs_count=8&theme=radical&border_radius=12"/>
 
 </div>
 
@@ -188,7 +182,7 @@ const AnshPatel = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshp2931-gif&theme=midnight-purple&hide_border=true&border_radius=10&background=03001C&ring=90E0EF&fire=ADE8F4&currStreakLabel=CAF0F8&sideLabels=ADE8F4&dates=48CAE4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anshp2931-gif&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -196,7 +190,7 @@ const AnshPatel = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshp2931-gif&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshp2931-gif&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -206,11 +200,9 @@ const AnshPatel = {
 
 <div align="center">
 
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshp2931-gif&theme=react-dark&radius=10&hide_border=true&bg_color=03001C&color=90E0EF&line=48CAE4&point=ADE8F4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshp2931-gif&theme=redical&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -221,12 +213,12 @@ const AnshPatel = {
 <div align="center">
 
 ```
-🔭  Building advanced React projects with real-world use cases
-📖  Learning React Hooks, Context API & Next.js fundamentals  
-🌐  Exploring Full Stack — Node.js + Express + MongoDB
-🏆  Practicing Data Structures & Algorithms daily
-🎨  Improving UI/UX design skills with Figma
-🤝  Looking for open source contributions to start
+🔴  Building advanced React projects with real-world use cases
+🟣  Learning React Hooks, Context API & Next.js fundamentals
+🟢  Exploring Full Stack — Node.js + Express + MongoDB
+🟠  Practicing Data Structures & Algorithms daily
+🔴  Improving UI/UX design skills with Figma
+🟣  Looking for open source contributions to start
 ```
 
 </div>
@@ -254,7 +246,7 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
 [![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshpatel-q4q)
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-90E0EF?style=for-the-badge&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
 
 <br/>
 
@@ -270,6 +262,6 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:023E8A,50:03045E,100:03001C&height=140&section=footer&animation=blinking&fontColor=90E0EF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
