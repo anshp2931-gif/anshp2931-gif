@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=750&lines=🔴+Frontend+Developer+%7C+Red+%26+Dark+Mode;🟣+React+%26+Tailwind+CSS+Enthusiast;🟢+Building+Real-World+Projects+Daily;🟠+UI%2FUX+Craftsman+%7C+Clean+Code;🔴+Always+Learning%2C+Always+Growing+🚀;🟣+Consistency+beats+talent+💪" alt="Typing SVG" />
+
 
 </div>
 
@@ -41,7 +41,6 @@ const AnshPatel = {
   role      : "Computer Engineering Student 🎓",
   semester  : "2nd Semester",
   location  : "Gujarat, India 🇮🇳",
-  vibes     : ["🔴 Red & Dark", "🟣 Purple & Neon", "🟢 Green & Black", "🟠 Orange & Gold"],
   stack     : ["React.js", "Tailwind CSS", "JavaScript", "Vite"],
   currently : "Building real-world projects & sharpening my skills",
   funFact   : "I turn coffee ☕ into clean, beautiful UIs 🎨",
