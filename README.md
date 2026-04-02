@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:1a1a2e,100:16213e&height=220&section=header&text=Ansh%20Patel&fontSize=70&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=60&descColor=a0f0d0&descSize=18" width="100%"/>
+<!-- Header Wave - Purple to Cyan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7400B8,25:6930C3,50:5E60CE,75:4EA8DE,100:48CAE4&height=250&section=header&text=Ansh%20Patel&fontSize=75&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=62&descColor=48CAE4&descSize=20&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FFAA&center=true&vCenter=true&multiline=false&width=750&lines=Frontend+Developer+%E2%9A%A1;React+%26+Tailwind+Enthusiast+%E2%9A%9B%EF%B8%8F;UI%2FUX+Craftsman+%F0%9F%8E%A8;Building+Real-World+Projects+%F0%9F%9A%80;Clean+Code+%7C+Beautiful+Interfaces+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=48CAE4&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Frontend+Developer;%E2%9B%9B%EF%B8%8F+React+%26+Tailwind+Enthusiast;%F0%9F%8E%A8+UI%2FUX+Craftsman;%F0%9F%9A%80+Building+Real-World+Projects;%F0%9F%94%A5+Clean+Code+%7C+Beautiful+Interfaces" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -12,12 +13,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshpatel-q4q)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshp2931-gif)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-48CAE4?style=for-the-badge&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile+Views&color=00ffaa&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/anshp2931-gif?style=for-the-badge&color=00ffaa&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile+Views&color=7400B8&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/anshp2931-gif?style=for-the-badge&color=5E60CE&labelColor=0d1117)
 
 </div>
 
@@ -27,7 +28,6 @@
 
 ## 🧠 About Me
 
-```javascript
 const AnshPatel = {
   name:        "Ansh Patel",
   role:        "Computer Engineering Student",
@@ -35,13 +35,13 @@ const AnshPatel = {
   location:    "Gujarat, India 🇮🇳",
   focus:       ["Frontend Development", "UI/UX Design"],
   passions:    ["React", "Tailwind CSS", "Open Source"],
-  currently:   "Building real-world projects & sharpening my skills",
+  currently:   "Building real-world projects & sharpening my skills ⚡",
   funFact:     "I turn coffee ☕ into clean, beautiful UIs 🎨",
 
   sayHi()     { console.log("Thanks for visiting! Let's build something amazing 🚀"); },
   lifeMotto() { return "Consistency beats talent when talent doesn't work hard. 💪"; },
 };
-```
+` ` `
 
 <br/>
 
@@ -64,7 +64,7 @@ const AnshPatel = {
 
 ### 🎯 My Goals
 
-```
+` ` `
 ✅ Build 20+ real-world projects
 🔄 Master Advanced React & Next.js
 ⏳ Contribute to Open Source
@@ -72,7 +72,7 @@ const AnshPatel = {
 🌟 Become a Full Stack Developer
 📦 Learn Node.js & Express.js
 🧠 Master JavaScript DSA
-```
+` ` `
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ const AnshPatel = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-5E60CE?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📦 Backend & Database (Learning)
 
@@ -164,20 +164,20 @@ const AnshPatel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshp2931-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshp2931-gif&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshp2931-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=5E60CE&title_color=48CAE4&icon_color=7400B8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshp2931-gif&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&border_color=5E60CE&title_color=48CAE4"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshp2931-gif&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anshp2931-gif&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=7400B8&fire=48CAE4&currStreakLabel=5E60CE)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Ansh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshp2931-gif&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ansh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshp2931-gif&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -187,7 +187,7 @@ const AnshPatel = {
 
 <div align="center">
 
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshp2931-gif&theme=tokyo-night&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshp2931-gif&theme=tokyo-night&radius=12&color=48CAE4&line=7400B8&point=5E60CE)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -199,26 +199,14 @@ const AnshPatel = {
 
 <div align="center">
 
-```
+` ` `
 🔭  Building advanced React projects with real-world use cases
 📖  Learning React Hooks, Context API & Next.js fundamentals
 🌐  Exploring Full Stack — Node.js + Express + MongoDB
 🏆  Practicing Data Structures & Algorithms daily
 🎨  Improving UI/UX design skills with Figma
 🤝  Looking for open source contributions to start
-```
-
-</div>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-> 🔥 I code every day — check my GitHub for daily commits and project updates!
-<!--END_SECTION:waka-->
+` ` `
 
 </div>
 
@@ -235,7 +223,7 @@ I'm always open to **learning, collaborating**, and connecting with fellow devel
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
 [![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anshpatel-q4q)
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00FFAA?style=for-the-badge&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-48CAE4?style=for-the-badge&logo=vercel&logoColor=black)](https://ansh-patel-portfolio.vercel.app/)
 
 <br/>
 
@@ -251,6 +239,8 @@ I'm always open to **learning, collaborating**, and connecting with fellow devel
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:1a1a2e,100:16213e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<!-- Footer Wave - reversed cyan to purple -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,25:4EA8DE,50:5E60CE,75:6930C3,100:7400B8&height=140&section=footer&fontColor=ffffff" width="100%"/>
 
 </div>
+
