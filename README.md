@@ -21,14 +21,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
 
 </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile+Views&color=FF6B6B&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/anshp2931-gif?style=for-the-badge&color=A855F7&labelColor=1a1a2e)
-
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
