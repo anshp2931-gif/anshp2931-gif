@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ansh%20Patel&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=62&descColor=ffffffcc&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ansh%20Patel&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=62&descColor=ffffffcc&descSize=18&speed=0.5" width="100%"/>
 
 </div>
 
@@ -198,6 +198,6 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&animation=twinkling&speed=0.5" width="100%"/>
 
 </div>
