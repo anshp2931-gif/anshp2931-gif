@@ -151,7 +151,6 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshp2931-gif&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
