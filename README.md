@@ -4,6 +4,9 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 
 <br/>
