@@ -51,19 +51,15 @@ const AnshPatel = {
 - 🤝 Open to **collabs, internships & open source**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🎯 My Goals
-
-```bash
-✅  Build 20+ real-world projects
-🔄  Master Advanced React & Next.js
-⏳  Contribute to Open Source
-🚀  Land a Tech Internship
-🌟  Become a Full Stack Developer
-📦  Learn Node.js & Express.js
-🧠  Master JavaScript & DSA
-```
+<a href="https://res.cloudinary.com/dwj55unqi/video/upload/v1775751057/github_dglamu.mp4">
+  <img 
+    src="https://res.cloudinary.com/dwj55unqi/image/upload/v1775751995/ezgif.com-video-to-gif-converter_o1usjo.gif" 
+    width="65%" 
+    style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.2);" 
+  />
+</a>
 
 </td>
 </tr>
