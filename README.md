@@ -6,14 +6,6 @@
 
 <div align="center">
 
-
-
-</div>
-
-<br/>
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anshpatel.23)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshp2931-gif)
@@ -21,6 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
 
 </div>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -77,6 +70,23 @@ const AnshPatel = {
 </tr>
 </table>
 
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+Whether it's a **project collab, internship opportunity, or just a friendly hello** — I'm always open! 🙌
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anshpatel.23)
+[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -114,46 +124,6 @@ const AnshPatel = {
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 📊 Skill Proficiency
-
-| Skill | Level | Progress |
-|---|---|---|
-| HTML & CSS | ⭐⭐⭐⭐⭐ | `████████████████████` 95% |
-| Tailwind CSS | ⭐⭐⭐⭐⭐ | `████████████████████` 90% |
-| JavaScript | ⭐⭐⭐⭐ | `█████████████████░░░` 80% |
-| React.js | ⭐⭐⭐⭐ | `████████████████░░░░` 75% |
-| Git & GitHub | ⭐⭐⭐⭐ | `████████████████░░░░` 75% |
-| UI/UX Design | ⭐⭐⭐⭐ | `██████████████░░░░░░` 70% |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔧 Stack | 🔗 |
-|---|---|---|---|
-| 🔥 **Adidas Clone** | Modern responsive e-commerce UI with smooth animations & product showcase | `React` `Tailwind` | [View →](https://github.com/anshp2931-gif/Adidas_website) |
-| 🚗 **Cars24 Clone** | Pixel-perfect car marketplace with search, filter & listing components | `React` `CSS` | [View →](https://github.com/anshp2931-gif/Cars24_website) |
-| 🎧 **Sony Clone** | Clean consumer electronics landing page, responsive across all devices | `React` `CSS` | [View →](https://github.com/anshp2931-gif/Sony-clone-website) |
-| 🏠 **Formourplace Clone** | Elegant interior design website with beautiful layouts & transitions | `React` `Tailwind` | [View →](https://github.com/anshp2931-gif/formourplace) |
-| 🚙 **Defender Clone** | Stylish Land Rover landing page with immersive scroll effects | `HTML` `CSS` `JS` | [View →](https://github.com/anshp2931-gif/Defender_website) |
-| 🌿 **RarePlant Clone** | Nature-inspired botanical UI with lush green aesthetics | `HTML` `CSS` `JS` | [View →](https://github.com/anshp2931-gif/rareplant-clone-website) |
-
-</div>
-
-<br/>
-
-> 💡 **More projects** on my [GitHub](https://github.com/anshp2931-gif) & [Portfolio](https://ansh-patel-portfolio.vercel.app/) — Always building something new!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -216,32 +186,7 @@ const AnshPatel = {
 
 ---
 
-## ⏱️ Coding Activity
-
 <div align="center">
-
-> 🔥 I code every day — check my GitHub for daily commits and project updates!
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-Whether it's a **project collab, internship opportunity, or just a friendly hello** — I'm always open! 🙌
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
-[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anshpatel.23)
-[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
-
-<br/>
-
----
 
 ### 💭 Quote I Live By
 
