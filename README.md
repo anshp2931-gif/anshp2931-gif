@@ -133,10 +133,6 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 
 <div align="center">
 
-
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshp2931-gif&layout=compact&langs_count=8&theme=radical&border_radius=12"/>
-
 </div>
 
 <br/>
