@@ -53,7 +53,7 @@ const AnshPatel = {
 </td>
 <td width="50%" align="center">
 
-<img src="https://res.cloudinary.com/dwj55unqi/image/upload/v1775751995/ezgif.com-video-to-gif-converter_o1usjo.gif" width="90%"/>
+<img src="https://raw.githubusercontent.com/anshp2931-gif/anshp2931-gif/main/coding.gif" width="90%"/>
 
 </td>
 </tr>
