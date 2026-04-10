@@ -53,20 +53,12 @@ const AnshPatel = {
 </td>
 <td width="50%" align="center">
 
-<a href="https://drive.google.com/file/d/1W40TIKrS0CXs1LTu_tf8-LSGtNa2PvIS/view?usp=sharing">
-  <img 
-    src="https://drive.google.com/file/d/1W40TIKrS0CXs1LTu_tf8-LSGtNa2PvIS/view?usp=sharing" 
-    width="65%" 
-    style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.2);" 
-  />
-</a>
+<img src="https://res.cloudinary.com/dwj55unqi/image/upload/v1775751995/ezgif.com-video-to-gif-converter_o1usjo.gif" width="90%"/>
 
 </td>
 </tr>
 </table>
-
 ---
-
 ## 🤝 Let's Connect!
 
 <div align="center">
