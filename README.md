@@ -4,14 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Constantly+Growing+%7C+⚡+Always+Creating+%7C+💡+Learning+Every+Day&center=true&size=18&vCenter=true&height=30"/>
 
-
-
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshp2931-gif&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 
 <br/>
 
@@ -58,19 +55,22 @@ const AnshPatel = {
 </td>
 </tr>
 </table>
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 Whether it's a **project collab, internship opportunity, or just a friendly hello** — I'm always open! 🙌
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patel-059b1b399)
 [![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anshpatel.23)
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshp2931@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anshp2931)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshp23/)
 
 </div>
 
@@ -120,20 +120,7 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 
 <div align="center">
 
-</div>
-
-<br/>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=anshp2931-gif&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 
 </div>
 
