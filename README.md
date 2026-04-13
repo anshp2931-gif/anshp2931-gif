@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ansh%20Patel&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Craftsman&descAlignY=62&descColor=ffffffcc&descSize=18&speed=0.5" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Constantly+Growing+%7C+⚡+Always+Creating+%7C+💡+Learning+Every+Day&center=true&size=18&vCenter=true&height=30"/>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=20&duration=2200&pause=500&color=00C2FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+Modern+Web+Experiences;React+%7C+Tailwind+%7C+JavaScript;Clean+UI+%7C+Smooth+UX;Always+Learning+%26+Improving&repeat=true" 
+/>
 
 </div>
 
