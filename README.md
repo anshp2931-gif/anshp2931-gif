@@ -18,46 +18,34 @@
 
 ## 🧠 About Me
 
-```javascript
-const AnshPatel = {
-  name      : "Ansh Patel",
-  role      : "Computer Engineering Student 🎓",
-  semester  : "2nd Semester",
-  location  : "Gujarat, India 🇮🇳",
-  stack     : ["React.js", "Tailwind CSS", "JavaScript", "Vite"],
-  currently : "Building real-world projects & sharpening my skills",
-  funFact   : "I turn coffee ☕ into clean, beautiful UIs 🎨",
-
-  sayHi()     { console.log("Thanks for visiting! Let's build something amazing 🚀"); },
-  lifeMotto() { return "Consistency beats talent when talent doesn't work hard. 💪"; },
-};
-```
-
-<br/>
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 💡 Who Am I?
+### Hi, I'm Ansh Patel 👋
 
-- 🎓 **Computer Engineering Student** — Gujarat, India
-- 💻 Passionate about **Frontend Dev & UI/UX**
-- ⚛️ Mastering **React.js** & **Tailwind CSS**
-- 🌐 Exploring **Full Stack Development**
-- 🏆 Practicing **DSA & Problem Solving** daily
-- 🎨 Obsessed with **pixel-perfect interfaces**
-- 🤝 Open to **collabs, internships & open source**
+I'm a **Computer Engineering student** from **Gujarat, India**, currently in my 2nd semester and deeply passionate about **Frontend Development** and **UI/UX design**.
+
+I specialize in building clean, responsive, and user-friendly web interfaces using **React.js** and **Tailwind CSS**. I care a lot about the details — from layout structure to smooth interactions — because I believe great products live in the details.
+
+**What drives me:**
+- 🎯 Building interfaces that are both functional and beautiful
+- 📚 Learning continuously — currently exploring Full Stack (Node.js + MongoDB)
+- 🏆 Sharpening problem-solving skills through DSA practice daily
+- 🤝 Collaborating on meaningful projects and contributing to open source
+
+I'm at an exciting stage of my journey — turning what I learn into real-world projects, one commit at a time.
+
+> *"Consistency beats talent when talent doesn't work hard."*
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
 <img src="https://raw.githubusercontent.com/anshp2931-gif/anshp2931-gif/main/coding.gif" width="90%"/>
 
 </td>
 </tr>
 </table>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -73,6 +61,7 @@ Whether it's a **project collab, internship opportunity, or just a friendly hell
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh-patel-portfolio.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anshp2931)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshp23/)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1sNpHV28f3TWAEj-nXqdBQMvMSGv63vA4/view?usp=sharing)
 
 </div>
 
